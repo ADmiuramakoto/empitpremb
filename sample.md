@@ -1,5 +1,5 @@
 # this is a markdown file
 
--git
--github
--docker
+- git
+- github
+- docker
